@@ -1,7 +1,11 @@
 # Power-Profile-and-Thresholding-Assisted-Multi-Label-NILMClassification
 Reproducibility Package — NILM Multi-Class Classification (Green Computing Analysis)
 
-This repository contains the CODE and REPORT used to reproduce the experimental results reported in the paper “Power-Profile-and-Thresholding-Assisted-Multi-Label-NILMClassification”, including classification performance and runtime-based energy efficiency analysis.
+This repository contains the CODE and REPORT used to reproduce the experimental results reported in the paper “Green Multi-Class NILM: Green and
+Energy-Efficient Multi-Class Non-Intrusive Load
+Monitoring Using Data-Driven Thresholding and
+Classical Machine Learning on Low-Frequency
+Smart Meter Data”, including classification performance and runtime-based energy efficiency analysis.
 
 **1. Execution Environment**
 
