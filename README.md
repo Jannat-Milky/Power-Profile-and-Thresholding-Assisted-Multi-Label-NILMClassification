@@ -1,9 +1,5 @@
-# Green Multi-Class NILM: Green and
-Energy-Efficient Multi-Class Non-Intrusive Load
-Monitoring Using Data-Driven Thresholding and
-Classical Machine Learning on Low-Frequency
-Smart Meter Data
-Reproducibility Package — NILM Multi-Class Classification (Green Computing Analysis)
+
+# Reproducibility Package — Green Multi-Class NILM (Green Computing Analysis)
 
 This repository contains the CODE and REPORT used to reproduce the experimental results reported in the paper “Green Multi-Class NILM: Green and
 Energy-Efficient Multi-Class Non-Intrusive Load
